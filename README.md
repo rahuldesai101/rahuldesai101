@@ -102,9 +102,9 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=1&theme=tokyonight&username=rahuldesai101" alt="Layout with last medium posts"  />
-</div>
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="rahul-desai-link" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/rahul-desai-link?trk=profile-badge">Rahul D.</a></div>
+              
 
 ###
 
