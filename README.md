@@ -85,12 +85,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/atom/atom-original.svg" height="40" alt="atom logo"  />
 </div>
 
-###
-<br>
-<div align="center">
-  <img height="350" src="https://giffiles.alphacoders.com/121/12161.gif"  />
-</div>
-
 
 ###
 <br>
@@ -109,6 +103,12 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=rahuldesai101&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
+
+###
+<br>
+<div align="center">
+  <img height="350" src="https://giffiles.alphacoders.com/121/12161.gif"  />
+</div>
 ###
 
 <img src="https://raw.githubusercontent.com/rahuldesai101/rahuldesai101/output/snake.svg" alt="Snake animation" />
