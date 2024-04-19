@@ -19,7 +19,7 @@
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=rahuldesai101.rahuldesai101&"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=rahuldesai101.rahuldesai101&left_text=Spectators"  />
 </div>
 
 ###
@@ -32,7 +32,7 @@
 
 ###
 
-<p align="left">I'm Rahul the Architect👨‍💻 from this Universe 🌌<br><br>- 🌉 Bridging Design & Business<br>- 🔭 I’m working as Designer & Creator<br>- 📚 I'm currently learning AI with LLM models 👻 (Mission similar Devin)<br>- ⚡ In my free time I do nothing Cause I like Cadbury 5star🍫</p>
+<p align="left">I'm Rahul the Architect👨‍💻 from this Universe 🌌<br><br>- 🌉 Bridging Design & Business<br><br>- 🔭 I’m working as Designer & Creator<br><br>- 📚 I'm currently learning AI with LLM models 👻 (Mission similar Devin)<br><br>- ⚡ In my free time I do nothing Cause I like Cadbury 5star🍫</p>
 
 ###
 
@@ -80,6 +80,8 @@
   <img src="https://cdn.simpleicons.org/html5/E34F26" height="40" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/adobephotoshop/31A8FF" height="40" alt="photoshop logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/atom/atom-original.svg" height="40" alt="atom logo"  />
 </div>
 
 ###
@@ -95,21 +97,13 @@
 ###
 
 <div align="center">
-  <img height="200" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=rahuldesai101&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rahuldesai101&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rahuldesai101&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
 ###
 
+<img src="https://raw.githubusercontent.com/rahuldesai101/rahuldesai101/output/snake.svg" alt="Snake animation" />
 
-              
-
-###
-
- <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ivansaul/ivansaul/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ivansaul/ivansaul/output/github-contribution-grid-snake.svg">
-  
-   <img src="https://raw.githubusercontent.com/rahuldesai101/rahuldesai101/output/snake.svg" alt="Snake animation" />
-  </picture>
-  
 ###
