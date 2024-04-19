@@ -36,7 +36,7 @@
 <p align="left">I'm Rahul the Architect👨‍💻 from this Universe 🌌<br><br>- 🌉 Bridging Design & Business<br><br>- 🔭 I’m working as Designer & Creator<br><br>- 📚 I'm currently learning AI with LLM models 👻 (Mission similar Devin)<br><br>- ⚡ In my free time I do nothing Cause I like Cadbury 5star🍫</p>
 
 ###
-
+<br>
 <h3 align="left">🛠 Language and tools</h3>
 
 ###
@@ -86,17 +86,17 @@
 </div>
 
 ###
-
+<br>
 <h3 align="left">🔥   My Stats :</h3>
 
 ###
-
+<br>
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=rahuldesai101&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
 ###
-
+<br>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rahuldesai101&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rahuldesai101&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
