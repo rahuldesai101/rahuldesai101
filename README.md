@@ -109,8 +109,7 @@
 <div align="center">
   <img height="350" src="https://giffiles.alphacoders.com/121/12161.gif"  />
 </div>
-###
 
-<img src="https://raw.githubusercontent.com/rahuldesai101/rahuldesai101/output/snake.svg" alt="Snake animation" />
+
 
 ###
