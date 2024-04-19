@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="450" src="https://giffiles.alphacoders.com/150/15011.gif"  />
+  <img height="350" src="https://giffiles.alphacoders.com/150/15011.gif"  />
 </div>
 
 ###
