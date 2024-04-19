@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="250" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif"  />
+  <img height="300" src="https://giffiles.alphacoders.com/150/15011.gif"  />
 </div>
 
 ###
@@ -17,9 +17,10 @@
 </div>
 
 ###
-
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=rahuldesai101.rahuldesai101&"  />
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=rahuldesai101&label=Profile%20Views&color=2&icon=8&pretty=true" />
+</a>
 </div>
 
 ###
@@ -32,18 +33,16 @@
 
 ###
 
-<p align="left">I'm Rahul the Architect👨‍💻 from this Universe 🌌<br><br>- 🌉 Bridging Design & Business<br>- 🔭 I’m working as Designer & Creator<br>- 📚 I'm currently learning AI with LLM models 👻 (Mission similar Devin)<br>- ⚡ In my free time I do nothing Cause I like Cadbury 5star🍫</p>
+<p align="left">I'm Rahul the Architect👨‍💻 from this Universe 🌌<br><br>- 🌉 Bridging Design & Business<br><br>- 🔭 I’m working as Designer & Creator<br><br>- 📚 I'm currently learning AI with LLM models 👻 (Mission similar Devin)<br><br>- ⚡ In my free time I do nothing Cause I like Cadbury 5star🍫</p>
 
 ###
-
+<br>
 <h3 align="left">🛠 Language and tools</h3>
 
 ###
 
 <div align="center">
   <img src="https://cdn.simpleicons.org/adobeaftereffects/9999FF" height="40" alt="aftereffects logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" height="40" alt="apple logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="40" alt="blender logo"  />
   <img width="12" />
@@ -82,37 +81,35 @@
   <img src="https://cdn.simpleicons.org/html5/E34F26" height="40" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/adobephotoshop/31A8FF" height="40" alt="photoshop logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/atom/atom-original.svg" height="40" alt="atom logo"  />
 </div>
 
-###
 
+###
+<br>
 <h3 align="left">🔥   My Stats :</h3>
 
 ###
-
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=rahuldesai101&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
 ###
-
+<br>
 <div align="center">
-  <img height="200" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=rahuldesai101&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rahuldesai101&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rahuldesai101&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
-###
-
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="rahul-desai-link" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/rahul-desai-link?trk=profile-badge">Rahul D.</a></div>
-              
 
 ###
+<br>
+<div align="center">
+  <img height="350" src="https://i.pinimg.com/originals/42/fa/45/42fa45e54d896f6d3cbdabfd1e6ecc64.gif"  />
+</div>
 
- <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ivansaul/ivansaul/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ivansaul/ivansaul/output/github-contribution-grid-snake.svg">
-  
-   <img src="https://raw.githubusercontent.com/rahuldesai101/rahuldesai101/output/snake.svg" alt="Snake animation" />
-  </picture>
-  
+
+
 ###
