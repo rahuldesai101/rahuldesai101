@@ -18,10 +18,9 @@
 
 ###
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=rahuldesai101.rahuldesai101&left_text=Spectators"  />
-</div>
-[![](https://visitcount.itsvg.in/api?id=rahuldesai101&icon=8&color=9)](https://visitcount.itsvg.in)
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=rahuldesai101&label=Profile%20Views&color=2&icon=8&pretty=true" />
+</a>
 
 
 ###
