@@ -21,6 +21,8 @@
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=rahuldesai101.rahuldesai101&left_text=Spectators"  />
 </div>
+[![](https://visitcount.itsvg.in/api?id=rahuldesai101&icon=8&color=9)](https://visitcount.itsvg.in)
+
 
 ###
 
