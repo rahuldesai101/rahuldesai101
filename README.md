@@ -20,36 +20,31 @@
 
 ## 👨‍💻 About Me
 
-I'm **Rahul**, an Architect 👨‍💻 bridging the gap between **Product & Design**. I thrive as a **Designer & Creator**, always seeking innovative ways to bring ideas to life.
-
-- **Current Focus:** Deep diving into **AI and LLM models** 👻, with a mission to explore capabilities similar to Devin.
-- **My Philosophy:** I believe in building meaningful connections between creative vision and practical application.
-- **Fun Fact:** When I'm not creating, you'll probably find me doing... nothing. Just enjoying some Cadbury 5 Star 🍫!
-
----
-## 👨‍💻 About Me
-
 <img align="right" alt="Coding GIF" width="350" src="https://giffiles.alphacoders.com/199/199445.gif">
 
 I'm **Rahul**, a **Product Associate** 👨‍💻 sitting at the intersection of **AI Architecture, Systems Engineering, and Product Design**. I focus on building intelligent, automated, and human-centric products that solve complex problems.
 
 - **Focus Areas:** Agentic AI, Autonomous Workflows, RAG architectures, Model Context Protocol (MCP), Full-Stack Dev & Product Design.
-- 🔭 **Currently Building:** [Journve](https://www.journve.com/)
+- 🔭 **Currently Building:** [Spec-Dash⚡](https://specdash.lovable.app/)
 - 🌱 **Learning & Exploring:** Vibe Coding, Agentic Workflows, Custom MCP servers, No-Code/Low-Code systems & Advanced RAG pipelines.
-- 👯 **Open to Collaboration:** [RepurposeGen](https://github.com/rahuldesai101)
+- 👯 **Open to Collaboration:** [Freeindia.com](https://github.com/rahuldesai101/FreeIndia-Research)
 - 🤝 **Seeking Help For:** [Knowvation](https://github.com/rahuldesai101) *(Discord community coming soon!)*
 - 📝 **Writing:** Sharing insights on AI systems, product strategy, and design at [Medium](https://medium.com/@rahuldesai101)
 - 💬 **Ask Me About:** AI Workflows, Agentic AI, RAG Systems, MCP, UI/UX Design, HCI & Product Development.
 - ⚡ **Fun Fact:** When I'm not architecting workflows or coding, I'm doing absolutely nothing while enjoying a **Cadbury 5 Star** 🍫.
 
+---
+
 ## 🚀 Active Projects
 
 | Project | Description | Stage | Focus |
-| :--- | :--- | :--- | :--- |
+| --- | --- | --- | --- |
 | ⚡ **[Specdash](https://github.com/rahuldesai101/specdash)** | Ultra-fast, zero-cost, brutalist control center for AI-native GitHub repositories. Transforms specs, AGENTS.md manuals, and prompt libraries into interactive LLM workspaces. | 🟢 Active | Developer Tools & AI |
+| 🛡️ **[Sentinel-Shield](https://sentinal-shield.lovable.app)** | Real-time, AI-driven security application designed to analyze emails, messages, and suspicious URLs to block threats before they reach your inbox or compromise personal data. | 🟢 Active | Cybersecurity & AI |
 | 🌐 **[Journve](https://www.journve.com/)** | Next-generation platform for digital workflows, user journeys, and seamless experiences. | 🟢 Active | Product & Web Engineering |
 | 🔄 **RepurposeGen** | Agentic AI content repurposing engine designed to automate multi-format distribution. | 🟡 R&D | Agentic AI & Automation |
 | 🧠 **Knowvation** | Interactive knowledge management ecosystem leveraging custom RAG architectures and MCPs. | 🔵 Planning | AI Systems & UX |
+
 ---
 
 ## 🛠️ Tech Stack & Capabilities
