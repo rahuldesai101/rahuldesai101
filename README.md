@@ -41,7 +41,7 @@ I'm **Rahul**, a **Product Associate** 👨‍💻 sitting at the intersection o
 | --- | --- | --- | --- |
 | ⚡ **[Specdash](https://github.com/rahuldesai101/specdash)** | Ultra-fast, zero-cost, brutalist control center for AI-native GitHub repositories. Transforms specs, AGENTS.md manuals, and prompt libraries into interactive LLM workspaces. | 🟢 Active | Developer Tools & AI |
 | 🛡️ **[Sentinel-Shield](https://sentinal-shield.lovable.app)** | Sentinel is an ultra-fast, active-defense threat intelligence platform that detects and neutralizes phishing, scams, and digital fraud in real time using a dual-AI engine and synthetic counter-offensives. | 🟢 Active | Cybersecurity & AI |
-| 🌐 **[Journve](https://www.journve.com/)** | Next-generation platform for digital workflows, user journeys, and seamless experiences. | 🟢 Active | Product & Web Engineering |
+| 🌐 **[Journve](https://journve.lovable.app)** | Next-generation platform for digital workflows, user journeys, and seamless experiences. | 🟢 Active | Product & Web Engineering |
 | 🔄 **RepurposeGen** | Agentic AI content repurposing engine designed to automate multi-format distribution. | 🟡 R&D | Agentic AI & Automation |
 | 🧠 **Knowvation** | Interactive knowledge management ecosystem leveraging custom RAG architectures and MCPs. | 🔵 Planning | AI Systems & UX |
 
